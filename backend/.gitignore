@@ -1,0 +1,6 @@
+.env
+pdf_storage/
+__pycache__/
+*.py[cod]
+
+.venv/
