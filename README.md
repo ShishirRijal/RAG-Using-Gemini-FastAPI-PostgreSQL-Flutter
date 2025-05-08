@@ -1,4 +1,4 @@
-# RAG Implementation Using Gemini FastAPI PostgreSQL Flutter
+# Basic Implementation of RAG using Gemini, FastAPI, PostgreSQL and Flutter
 
 [![FastAPI](https://img.shields.io/badge/FastAPI0.95.1-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Flutter](https://img.shields.io/badge/Flutter-3.10.0-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev/)
@@ -65,16 +65,13 @@ graph TD
 - **AI**: Google Gemini 1.5 Flash for question answering
 - **Embeddings**: Sentence-Transformers for semantic search
 
+
+
 ## App Screenshots
 
+### Backend End-points (Swagger)
 
-To **resize and arrange your screenshots neatly** in Markdown (like in a GitHub README or portfolio page), you can use a combination of HTML inside Markdown. GitHub doesn't support advanced Markdown image layouts like grids, so you’ll need HTML for better control.
-
-Here's a clean and responsive layout suggestion using HTML:
-
----
-
-## 📄 App Screenshots
+<img width="1479" alt="Screenshot 2025-05-08 at 3 00 35 AM" src="https://github.com/user-attachments/assets/763c058a-0fa7-4110-b15c-0f218bf71659" />
 
 ### Labor Law Act - QA Interaction
 I uploaded the labor-law-act-2048 and asked the questions from the paper.
